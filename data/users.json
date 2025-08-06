@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1754261992,
+        "name": "abc",
+        "email": "user@blog.com",
+        "password": "$2y$10$4TI0wA4qyi\/w6ImQVhUDXubjV2HpXgudNyih4R47.uG.8MJExJSv6",
+        "created_at": "03-08-2025"
+    },
+    {
+        "id": 1754263516,
+        "name": "xyz",
+        "email": "team@blog.com",
+        "password": "$2y$10$ZdAWBb4pj7\/hQfYcHxPaK.rnYIKN1WKDZVDHRiZZtwQyOpzxF5KDO",
+        "created_at": "03-08-2025"
+    },
+    {
+        "id": 1754278243,
+        "name": "qwe",
+        "email": "user2@blog.com",
+        "password": "$2y$10$PC843j6LdLDIXtD5ki8WyuS.8T.wk7Eo67JABsBbIl18sJvXD1BKa",
+        "created_at": "04-08-2025"
+    }
+]
